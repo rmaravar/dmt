@@ -1,7 +1,13 @@
 [package]
 name = "dmt"
-version = "0.1.0"
+version = "0.1.0-alpha.1"
+authors = ["Ravi Maravar <ravi@logsofa.dev>"]
 edition = "2021"
+license = "Apache-2.0/MIT"
+readme = "README.md"
+keywords = ["distributed", "merkle", "tree", "p2p", "DHT"]
+exclude = ["/ci/*", "/scripts/*", "/.github/*", "/bors.toml"]
+
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
