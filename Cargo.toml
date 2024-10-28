@@ -1,6 +1,6 @@
 [package]
 name = "dmtree"
-version = "0.1.0-alpha.1"
+version = "0.1.0-alpha.2"
 authors = ["Ravi Maravar <ravi@logsofa.dev>"]
 description = "A library to enable publishing a merkle tree over a Distributed Hash Table."
 edition = "2021"
