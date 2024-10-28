@@ -6,6 +6,8 @@ description = "A library to enable publishing a merkle tree over a Distributed H
 edition = "2021"
 license = "Apache-2.0/MIT"
 readme = "README.md"
+repository = "https://github.com/rmaravar/dmt"
+documentation = "https://docs.rs/dmtree/"
 keywords = ["distributed", "merkle", "tree", "p2p", "DHT"]
 exclude = ["/ci/*", "/scripts/*", "/.github/*", "/bors.toml"]
 
