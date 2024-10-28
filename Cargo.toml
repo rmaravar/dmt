@@ -2,6 +2,7 @@
 name = "dmt"
 version = "0.1.0-alpha.1"
 authors = ["Ravi Maravar <ravi@logsofa.dev>"]
+description = "A library to enable publishing a merkle tree over a Distributed Hash Table."
 edition = "2021"
 license = "Apache-2.0/MIT"
 readme = "README.md"
