@@ -1,4 +1,6 @@
- A library that provides abstractions to build an unbalanced merkle tree
+# Distributed Merkle Tree
+
+A library that provides abstractions to build an unbalanced merkle tree
  from a nested group of data set for a user and provides a set of network
  nodes that has been augmented with structural and authentication information
  that can be persisted over a Distributed Hash Table (DHT).
